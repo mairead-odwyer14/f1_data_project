@@ -1,0 +1,19 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+6,piastri,Oscar Piastri,PIA,McLaren,4,1,Finished,25
+6,norris,Lando Norris,NOR,McLaren,2,2,Finished,18
+6,russell,George Russell,RUS,Mercedes,5,3,Finished,15
+6,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,4,Finished,12
+6,albon,Alexander Albon,ALB,Williams,7,5,Finished,10
+6,antonelli,Kimi Antonelli,ANT,Mercedes,6,6,Finished,8
+6,leclerc,Charles Leclerc,LEC,Ferrari,3,7,Finished,6
+6,hamilton,Lewis Hamilton,HAM,Ferrari,8,8,Finished,4
+6,sainz,Carlos Sainz,SAI,Williams,9,9,Finished,2
+6,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,10,10,Finished,0
+6,hadjar,Isack Hadjar,HAD,Racing Bulls,11,11,Finished,0
+6,ocon,Esteban Ocon,OCO,Haas F1 Team,12,12,Finished,0
+6,gasly,Pierre Gasly,GAS,Alpine,13,13,Finished,0
+6,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,16,16,Finished,0
+6,alonso,Fernando Alonso,ALO,Aston Martin,15,17,Finished,0
+6,stroll,Lance Stroll,STR,Aston Martin,17,18,Finished,0
+6,lawson,Liam Lawson,LAW,Racing Bulls,14,R,0
+6,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,18,R,0

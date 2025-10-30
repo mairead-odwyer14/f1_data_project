@@ -1,0 +1,399 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,PitLaneStart,Position,Status,Points
+1,norris,Lando Norris,NOR,McLaren,1,False,1,Finished,25
+1,hadjar,Isack Hadjar,HAD,Racing Bulls,11,False,20,Retired,0
+1,doohan,Jack Doohan,DOO,Alpine,14,False,19,Retired,0
+1,sainz,Carlos Sainz,SAI,Williams,10,False,18,Retired,0
+1,alonso,Fernando Alonso,ALO,Aston Martin,12,False,17,Retired,0
+1,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,15,False,16,Retired,0
+1,bearman,Oliver Bearman,BEA,Haas F1 Team,20,False,14,Finished,0
+1,ocon,Esteban Ocon,OCO,Haas F1 Team,19,False,13,Finished,0
+1,tsunoda,Yuki Tsunoda,TSU,Racing Bulls,5,False,12,Finished,0
+1,gasly,Pierre Gasly,GAS,Alpine,9,False,11,Finished,0
+1,lawson,Liam Lawson,LAW,Red Bull Racing,18,False,15,Retired,0
+1,piastri,Oscar Piastri,PIA,McLaren,2,False,9,Finished,2
+1,leclerc,Charles Leclerc,LEC,Ferrari,7,False,8,Finished,4
+1,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,False,7,Finished,6
+1,stroll,Lance Stroll,STR,Aston Martin,13,False,6,Finished,8
+1,albon,Alexander Albon,ALB,Williams,6,False,5,Finished,10
+1,antonelli,Andrea Kimi Antonelli,ANT,Mercedes,16,False,4,Finished,12
+1,russell,George Russell,RUS,Mercedes,4,False,3,Finished,15
+1,max_verstappen,Max Verstappen,VER,Red Bull Racing,3,False,2,Finished,18
+1,hamilton,Lewis Hamilton,HAM,Ferrari,8,False,10,Finished,1
+2,doohan,Jack Doohan,DOO,Alpine,18,False,13,Finished,0
+2,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,19,False,14,Lapped,0
+2,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,12,False,15,Lapped,0
+2,tsunoda,Yuki Tsunoda,TSU,Racing Bulls,9,False,16,Lapped,0
+2,gasly,Pierre Gasly,GAS,Alpine,16,False,20,Disqualified,0
+2,leclerc,Charles Leclerc,LEC,Ferrari,6,False,18,Disqualified,0
+2,hamilton,Lewis Hamilton,HAM,Ferrari,5,False,19,Disqualified,0
+2,lawson,Liam Lawson,LAW,Red Bull Racing,20,False,12,Finished,0
+2,alonso,Fernando Alonso,ALO,Aston Martin,13,False,17,Retired,0
+2,hadjar,Isack Hadjar,HAD,Racing Bulls,7,False,11,Finished,0
+2,ocon,Esteban Ocon,OCO,Haas F1 Team,11,False,5,Finished,10
+2,stroll,Lance Stroll,STR,Aston Martin,14,False,9,Finished,2
+2,sainz,Carlos Sainz,SAI,Williams,15,False,10,Finished,1
+2,norris,Lando Norris,NOR,McLaren,3,False,2,Finished,18
+2,russell,George Russell,RUS,Mercedes,2,False,3,Finished,15
+2,max_verstappen,Max Verstappen,VER,Red Bull Racing,4,False,4,Finished,12
+2,piastri,Oscar Piastri,PIA,McLaren,1,False,1,Finished,25
+2,antonelli,Kimi Antonelli,ANT,Mercedes,8,False,6,Finished,8
+2,albon,Alexander Albon,ALB,Williams,10,False,7,Finished,6
+2,bearman,Oliver Bearman,BEA,Haas F1 Team,17,False,8,Finished,4
+3,stroll,Lance Stroll,STR,Aston Martin,20,False,20,Lapped,0
+3,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,17,False,19,Finished,0
+3,ocon,Esteban Ocon,OCO,Haas F1 Team,18,False,18,Finished,0
+3,lawson,Liam Lawson,LAW,Racing Bulls,13,False,17,Finished,0
+3,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,16,False,16,Finished,0
+3,sainz,Carlos Sainz,SAI,Williams,15,False,14,Finished,0
+3,gasly,Pierre Gasly,GAS,Alpine,11,False,13,Finished,0
+3,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,14,False,12,Finished,0
+3,alonso,Fernando Alonso,ALO,Aston Martin,12,False,11,Finished,0
+3,doohan,Jack Doohan,DOO,Alpine,19,False,15,Finished,0
+3,albon,Alexander Albon,ALB,Williams,9,False,9,Finished,2
+3,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
+3,piastri,Oscar Piastri,PIA,McLaren,3,False,3,Finished,15
+3,leclerc,Charles Leclerc,LEC,Ferrari,4,False,4,Finished,12
+3,russell,George Russell,RUS,Mercedes,5,False,5,Finished,10
+3,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
+3,antonelli,Kimi Antonelli,ANT,Mercedes,6,False,6,Finished,8
+3,hamilton,Lewis Hamilton,HAM,Ferrari,8,False,7,Finished,6
+3,hadjar,Isack Hadjar,HAD,Racing Bulls,7,False,8,Finished,4
+3,bearman,Oliver Bearman,BEA,Haas F1 Team,10,False,10,Finished,1
+4,albon,Alexander Albon,ALB,Williams,15,False,12,Finished,0
+4,sainz,Carlos Sainz,SAI,Williams,8,False,19,Retired,0
+4,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,18,False,18,Finished,0
+4,stroll,Lance Stroll,STR,Aston Martin,19,False,17,Finished,0
+4,lawson,Liam Lawson,LAW,Racing Bulls,17,False,16,Finished,0
+4,alonso,Fernando Alonso,ALO,Aston Martin,13,False,15,Finished,0
+4,doohan,Jack Doohan,DOO,Alpine,11,False,14,Finished,0
+4,hadjar,Isack Hadjar,HAD,Racing Bulls,12,False,13,Finished,0
+4,antonelli,Kimi Antonelli,ANT,Mercedes,5,False,11,Finished,0
+4,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,16,False,20,Disqualified,0
+4,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,10,False,9,Finished,2
+4,piastri,Oscar Piastri,PIA,McLaren,1,False,1,Finished,25
+4,russell,George Russell,RUS,Mercedes,3,False,2,Finished,18
+4,norris,Lando Norris,NOR,McLaren,6,False,3,Finished,15
+4,leclerc,Charles Leclerc,LEC,Ferrari,2,False,4,Finished,12
+4,bearman,Oliver Bearman,BEA,Haas F1 Team,20,False,10,Finished,1
+4,max_verstappen,Max Verstappen,VER,Red Bull Racing,7,False,6,Finished,8
+4,gasly,Pierre Gasly,GAS,Alpine,4,False,7,Finished,6
+4,ocon,Esteban Ocon,OCO,Haas F1 Team,14,False,8,Finished,4
+4,hamilton,Lewis Hamilton,HAM,Ferrari,9,False,5,Finished,10
+5,alonso,Fernando Alonso,ALO,Aston Martin,13,False,11,Finished,0
+5,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,8,False,19,Retired,0
+5,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,20,False,18,Lapped,0
+5,doohan,Jack Doohan,DOO,Alpine,17,False,17,Lapped,0
+5,stroll,Lance Stroll,STR,Aston Martin,16,False,16,Lapped,0
+5,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,18,False,15,Lapped,0
+5,ocon,Esteban Ocon,OCO,Haas F1 Team,19,False,14,Finished,0
+5,bearman,Oliver Bearman,BEA,Haas F1 Team,15,False,13,Finished,0
+5,lawson,Liam Lawson,LAW,Racing Bulls,12,False,12,Finished,0
+5,gasly,Pierre Gasly,GAS,Alpine,9,False,20,Retired,0
+5,hadjar,Isack Hadjar,HAD,Racing Bulls,14,False,10,Finished,1
+5,sainz,Carlos Sainz,SAI,Williams,6,False,8,Finished,4
+5,hamilton,Lewis Hamilton,HAM,Ferrari,7,False,7,Finished,6
+5,antonelli,Kimi Antonelli,ANT,Mercedes,5,False,6,Finished,8
+5,russell,George Russell,RUS,Mercedes,3,False,5,Finished,10
+5,norris,Lando Norris,NOR,McLaren,10,False,4,Finished,12
+5,leclerc,Charles Leclerc,LEC,Ferrari,4,False,3,Finished,15
+5,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,2,Finished,18
+5,piastri,Oscar Piastri,PIA,McLaren,2,False,1,Finished,25
+5,albon,Alexander Albon,ALB,Williams,11,False,9,Finished,2
+6,ocon,Esteban Ocon,OCO,Haas F1 Team,12,False,12,Finished,0
+6,gasly,Pierre Gasly,GAS,Alpine,13,False,13,Finished,0
+6,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,16,False,16,Finished,0
+6,hadjar,Isack Hadjar,HAD,Racing Bulls,11,False,11,Finished,0
+6,stroll,Lance Stroll,STR,Aston Martin,17,False,18,Finished,0
+6,lawson,Liam Lawson,LAW,Racing Bulls,14,False,,0,0
+6,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,18,False,,0,0
+6,alonso,Fernando Alonso,ALO,Aston Martin,15,False,17,Finished,0
+6,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,10,False,10,Finished,0
+6,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,4,Finished,12
+6,hamilton,Lewis Hamilton,HAM,Ferrari,8,False,8,Finished,4
+6,leclerc,Charles Leclerc,LEC,Ferrari,3,False,7,Finished,6
+6,antonelli,Kimi Antonelli,ANT,Mercedes,6,False,6,Finished,8
+6,albon,Alexander Albon,ALB,Williams,7,False,5,Finished,10
+6,sainz,Carlos Sainz,SAI,Williams,9,False,9,Finished,2
+6,russell,George Russell,RUS,Mercedes,5,False,3,Finished,15
+6,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
+6,piastri,Oscar Piastri,PIA,McLaren,4,False,1,Finished,25
+7,alonso,Fernando Alonso,ALO,Aston Martin,14,False,14,Finished,0
+7,stroll,Lance Stroll,STR,Aston Martin,15,False,15,Finished,0
+7,bearman,Oliver Bearman,BEA,Haas F1 Team,16,False,16,Finished,0
+7,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,20,False,20,Retired,0
+7,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,18,False,18,Finished,0
+7,doohan,Jack Doohan,DOO,Alpine,19,False,19,Retired,0
+7,lawson,Liam Lawson,LAW,Racing Bulls,13,False,13,Finished,0
+7,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,False,17,Finished,0
+7,hadjar,Isack Hadjar,HAD,Racing Bulls,12,False,12,Finished,0
+7,ocon,Esteban Ocon,OCO,Haas F1 Team,11,False,11,Finished,0
+7,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
+7,sainz,Carlos Sainz,SAI,Williams,9,False,9,Finished,2
+7,albon,Alexander Albon,ALB,Williams,8,False,8,Finished,4
+7,antonelli,Kimi Antonelli,ANT,Mercedes,7,False,7,Finished,6
+7,hamilton,Lewis Hamilton,HAM,Ferrari,6,False,6,Finished,8
+7,russell,George Russell,RUS,Mercedes,5,False,5,Finished,10
+7,leclerc,Charles Leclerc,LEC,Ferrari,4,False,4,Finished,12
+7,piastri,Oscar Piastri,PIA,McLaren,3,False,3,Finished,15
+7,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
+7,gasly,Pierre Gasly,GAS,Alpine,10,False,10,Finished,1
+8,colapinto,Franco Colapinto,COL,Alpine,18,False,13,Lapped,0
+8,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,False,14,Lapped,0
+8,stroll,Lance Stroll,STR,Aston Martin,19,False,15,Lapped,0
+8,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,13,False,16,Lapped,0
+8,bearman,Oliver Bearman,BEA,Haas F1 Team,20,False,12,Lapped,0
+8,antonelli,Kimi Antonelli,ANT,Mercedes,15,False,18,Lapped,0
+8,alonso,Fernando Alonso,ALO,Aston Martin,6,False,19,Retired,0
+8,gasly,Pierre Gasly,GAS,Alpine,17,False,20,Retired,0
+8,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,12,False,17,Lapped,0
+8,russell,George Russell,RUS,Mercedes,14,False,11,Lapped,0
+8,norris,Lando Norris,NOR,McLaren,1,False,1,Finished,25
+8,albon,Alexander Albon,ALB,Williams,10,False,9,Lapped,2
+8,lawson,Liam Lawson,LAW,Racing Bulls,9,False,8,Lapped,4
+8,ocon,Esteban Ocon,OCO,Haas F1 Team,8,False,7,Lapped,6
+8,hadjar,Isack Hadjar,HAD,Racing Bulls,5,False,6,Lapped,8
+8,hamilton,Lewis Hamilton,HAM,Ferrari,7,False,5,Finished,10
+8,max_verstappen,Max Verstappen,VER,Red Bull Racing,4,False,4,Finished,12
+8,piastri,Oscar Piastri,PIA,McLaren,3,False,3,Finished,15
+8,leclerc,Charles Leclerc,LEC,Ferrari,2,False,2,Finished,18
+8,sainz,Carlos Sainz,SAI,Williams,11,False,10,Lapped,1
+9,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,19,False,13,Finished,0
+9,sainz,Carlos Sainz,SAI,Williams,17,False,14,Finished,0
+9,colapinto,Franco Colapinto,COL,Alpine,18,False,15,Finished,0
+9,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,12,False,12,Finished,0
+9,bearman,Oliver Bearman,BEA,Haas F1 Team,14,False,17,Finished,0
+9,antonelli,Kimi Antonelli,ANT,Mercedes,6,False,18,Retired,0
+9,albon,Alexander Albon,ALB,Williams,11,False,19,Retired,0
+9,ocon,Esteban Ocon,OCO,Haas F1 Team,16,False,16,Finished,0
+9,lawson,Liam Lawson,LAW,Racing Bulls,13,False,11,Finished,0
+9,piastri,Oscar Piastri,PIA,McLaren,1,False,1,Finished,25
+9,alonso,Fernando Alonso,ALO,Aston Martin,10,False,9,Finished,2
+9,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
+9,leclerc,Charles Leclerc,LEC,Ferrari,7,False,3,Finished,15
+9,russell,George Russell,RUS,Mercedes,4,False,4,Finished,12
+9,max_verstappen,Max Verstappen,VER,Red Bull Racing,3,False,10,Finished,1
+9,hamilton,Lewis Hamilton,HAM,Ferrari,5,False,6,Finished,8
+9,hadjar,Isack Hadjar,HAD,Racing Bulls,9,False,7,Finished,6
+9,gasly,Pierre Gasly,GAS,Alpine,8,False,8,Finished,4
+9,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,15,False,5,Finished,10
+10,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,18,False,12,Lapped,0
+10,lawson,Liam Lawson,LAW,Racing Bulls,19,False,19,Retired,0
+10,norris,Lando Norris,NOR,McLaren,7,False,18,Retired,0
+10,stroll,Lance Stroll,STR,Aston Martin,17,False,17,Lapped,0
+10,hadjar,Isack Hadjar,HAD,Racing Bulls,12,False,16,Lapped,0
+10,gasly,Pierre Gasly,GAS,Alpine,20,False,15,Lapped,0
+10,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,15,False,14,Lapped,0
+10,colapinto,Franco Colapinto,COL,Alpine,10,False,13,Lapped,0
+10,albon,Alexander Albon,ALB,Williams,9,False,20,Retired,0
+10,bearman,Oliver Bearman,BEA,Haas F1 Team,13,False,11,Lapped,0
+10,ocon,Esteban Ocon,OCO,Haas F1 Team,14,False,9,Lapped,2
+10,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,11,False,8,Finished,4
+10,alonso,Fernando Alonso,ALO,Aston Martin,6,False,7,Finished,6
+10,hamilton,Lewis Hamilton,HAM,Ferrari,5,False,6,Finished,8
+10,leclerc,Charles Leclerc,LEC,Ferrari,8,False,5,Finished,10
+10,piastri,Oscar Piastri,PIA,McLaren,3,False,4,Finished,12
+10,antonelli,Kimi Antonelli,ANT,Mercedes,4,False,3,Finished,15
+10,max_verstappen,Max Verstappen,VER,Red Bull Racing,2,False,2,Finished,18
+10,russell,George Russell,RUS,Mercedes,1,False,1,Finished,25
+10,sainz,Carlos Sainz,SAI,Williams,16,False,10,Lapped,1
+11,gasly,Pierre Gasly,GAS,Alpine,10,False,13,Lapped,0
+11,stroll,Lance Stroll,STR,Aston Martin,16,False,14,Lapped,0
+11,colapinto,Franco Colapinto,COL,Alpine,14,False,15,Lapped,0
+11,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,18,False,16,Lapped,0
+11,hadjar,Isack Hadjar,HAD,Racing Bulls,13,False,12,Lapped,0
+11,max_verstappen,Max Verstappen,VER,Red Bull Racing,7,False,18,Retired,0
+11,antonelli,Kimi Antonelli,ANT,Mercedes,9,False,19,Retired,0
+11,sainz,Carlos Sainz,SAI,Williams,19,False,20,Did not start,0
+11,albon,Alexander Albon,ALB,Williams,12,False,17,Retired,0
+11,bearman,Oliver Bearman,BEA,Haas F1 Team,15,False,11,Lapped,0
+11,piastri,Oscar Piastri,PIA,McLaren,3,False,2,Finished,18
+11,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,20,False,9,Lapped,2
+11,ocon,Esteban Ocon,OCO,Haas F1 Team,17,False,10,Lapped,1
+11,leclerc,Charles Leclerc,LEC,Ferrari,2,False,3,Finished,15
+11,hamilton,Lewis Hamilton,HAM,Ferrari,4,False,4,Finished,12
+11,norris,Lando Norris,NOR,McLaren,1,False,1,Finished,25
+11,lawson,Liam Lawson,LAW,Racing Bulls,6,False,6,Finished,8
+11,alonso,Fernando Alonso,ALO,Aston Martin,11,False,7,Lapped,6
+11,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,8,False,8,Lapped,4
+11,russell,George Russell,RUS,Mercedes,5,False,5,Finished,10
+12,ocon,Esteban Ocon,OCO,Haas F1 Team,14,False,13,Finished,0
+12,colapinto,Franco Colapinto,COL,Alpine,20,False,20,Did not start,0
+12,lawson,Liam Lawson,LAW,Racing Bulls,15,False,19,Retired,0
+12,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,False,18,Retired,0
+12,hadjar,Isack Hadjar,HAD,Racing Bulls,12,False,17,Retired,0
+12,antonelli,Kimi Antonelli,ANT,Mercedes,10,False,16,Retired,0
+12,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,11,False,15,Lapped,0
+12,leclerc,Charles Leclerc,LEC,Ferrari,6,False,14,Finished,0
+12,sainz,Carlos Sainz,SAI,Williams,9,False,12,Finished,0
+12,bearman,Oliver Bearman,BEA,Haas F1 Team,18,False,11,Finished,0
+12,norris,Lando Norris,NOR,McLaren,3,False,1,Finished,25
+12,alonso,Fernando Alonso,ALO,Aston Martin,7,False,9,Finished,2
+12,albon,Alexander Albon,ALB,Williams,13,False,8,Finished,4
+12,stroll,Lance Stroll,STR,Aston Martin,17,False,7,Finished,6
+12,gasly,Pierre Gasly,GAS,Alpine,8,False,6,Finished,8
+12,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,5,Finished,10
+12,hamilton,Lewis Hamilton,HAM,Ferrari,5,False,4,Finished,12
+12,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,19,False,3,Finished,15
+12,piastri,Oscar Piastri,PIA,McLaren,2,False,2,Finished,18
+12,russell,George Russell,RUS,Mercedes,4,False,10,Finished,1
+13,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,7,False,13,Finished,0
+13,stroll,Lance Stroll,STR,Aston Martin,16,False,14,Finished,0
+13,ocon,Esteban Ocon,OCO,Haas F1 Team,11,False,15,Finished,0
+13,antonelli,Kimi Antonelli,ANT,Mercedes,19,False,16,Finished,0
+13,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,14,False,12,Finished,0
+13,sainz,Carlos Sainz,SAI,Williams,17,False,18,Finished,0
+13,colapinto,Franco Colapinto,COL,Alpine,15,False,19,Finished,0
+13,hadjar,Isack Hadjar,HAD,Racing Bulls,8,False,20,Lapped,0
+13,alonso,Fernando Alonso,ALO,Aston Martin,20,False,17,Finished,0
+13,bearman,Oliver Bearman,BEA,Haas F1 Team,12,False,11,Finished,0
+13,piastri,Oscar Piastri,PIA,McLaren,2,False,1,Finished,25
+13,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,10,False,9,Finished,2
+13,lawson,Liam Lawson,LAW,Racing Bulls,9,False,8,Finished,4
+13,hamilton,Lewis Hamilton,HAM,Ferrari,18,False,7,Finished,6
+13,albon,Alexander Albon,ALB,Williams,5,False,6,Finished,8
+13,russell,George Russell,RUS,Mercedes,6,False,5,Finished,10
+13,max_verstappen,Max Verstappen,VER,Red Bull Racing,4,False,4,Finished,12
+13,leclerc,Charles Leclerc,LEC,Ferrari,3,False,3,Finished,15
+13,norris,Lando Norris,NOR,McLaren,1,False,2,Finished,18
+13,gasly,Pierre Gasly,GAS,Alpine,13,False,10,Finished,1
+14,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,18,False,13,Lapped,0
+14,sainz,Carlos Sainz,SAI,Williams,13,False,14,Lapped,0
+14,albon,Alexander Albon,ALB,Williams,19,False,15,Lapped,0
+14,ocon,Esteban Ocon,OCO,Haas F1 Team,17,False,16,Lapped,0
+14,bearman,Oliver Bearman,BEA,Haas F1 Team,11,False,20,Retired,0
+14,colapinto,Franco Colapinto,COL,Alpine,14,False,18,Lapped,0
+14,gasly,Pierre Gasly,GAS,Alpine,16,False,19,Lapped,0
+14,hamilton,Lewis Hamilton,HAM,Ferrari,12,False,12,Lapped,0
+14,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,20,False,17,Lapped,0
+14,hadjar,Isack Hadjar,HAD,Racing Bulls,10,False,11,Lapped,0
+14,norris,Lando Norris,NOR,McLaren,3,False,1,Finished,25
+14,max_verstappen,Max Verstappen,VER,Red Bull Racing,8,False,9,Finished,2
+14,piastri,Oscar Piastri,PIA,McLaren,2,False,2,Finished,18
+14,russell,George Russell,RUS,Mercedes,4,False,3,Finished,15
+14,leclerc,Charles Leclerc,LEC,Ferrari,1,False,4,Finished,12
+14,antonelli,Kimi Antonelli,ANT,Mercedes,15,False,10,Lapped,1
+14,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,7,False,6,Finished,8
+14,stroll,Lance Stroll,STR,Aston Martin,6,False,7,Finished,6
+14,lawson,Liam Lawson,LAW,Racing Bulls,9,False,8,Finished,4
+14,alonso,Fernando Alonso,ALO,Aston Martin,5,False,5,Finished,10
+15,lawson,Liam Lawson,LAW,Racing Bulls,8,False,12,Finished,0
+15,leclerc,Charles Leclerc,LEC,Ferrari,6,False,19,Retired,0
+15,norris,Lando Norris,NOR,McLaren,2,False,18,Retired,0
+15,gasly,Pierre Gasly,GAS,Alpine,14,False,17,Finished,0
+15,antonelli,Kimi Antonelli,ANT,Mercedes,11,False,16,Finished,0
+15,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,13,False,15,Finished,0
+15,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,False,14,Finished,0
+15,sainz,Carlos Sainz,SAI,Williams,9,False,13,Finished,0
+15,hamilton,Lewis Hamilton,HAM,Ferrari,7,False,20,Retired,0
+15,colapinto,Franco Colapinto,COL,Alpine,16,False,11,Finished,0
+15,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,12,False,9,Finished,2
+15,alonso,Fernando Alonso,ALO,Aston Martin,10,False,8,Finished,4
+15,stroll,Lance Stroll,STR,Aston Martin,19,False,7,Finished,6
+15,bearman,Oliver Bearman,BEA,Haas F1 Team,20,False,6,Finished,8
+15,albon,Alexander Albon,ALB,Williams,15,False,5,Finished,10
+15,russell,George Russell,RUS,Mercedes,5,False,4,Finished,12
+15,hadjar,Isack Hadjar,HAD,Racing Bulls,4,False,3,Finished,15
+15,max_verstappen,Max Verstappen,VER,Red Bull Racing,3,False,2,Finished,18
+15,piastri,Oscar Piastri,PIA,McLaren,1,False,1,Finished,25
+15,ocon,Esteban Ocon,OCO,Haas F1 Team,18,False,10,Finished,1
+16,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,9,False,13,Finished,0
+16,lawson,Liam Lawson,LAW,Racing Bulls,18,False,14,Finished,0
+16,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,20,False,20,Did not start,0
+16,ocon,Esteban Ocon,OCO,Haas F1 Team,15,False,15,Finished,0
+16,bearman,Oliver Bearman,BEA,Haas F1 Team,11,False,12,Finished,0
+16,colapinto,Franco Colapinto,COL,Alpine,17,False,17,Finished,0
+16,stroll,Lance Stroll,STR,Aston Martin,16,False,18,Finished,0
+16,alonso,Fernando Alonso,ALO,Aston Martin,8,False,19,Retired,0
+16,gasly,Pierre Gasly,GAS,Alpine,,True,16,Finished,0
+16,sainz,Carlos Sainz,SAI,Williams,13,False,11,Finished,0
+16,hamilton,Lewis Hamilton,HAM,Ferrari,10,False,6,Finished,8
+16,antonelli,Kimi Antonelli,ANT,Mercedes,6,False,9,Finished,2
+16,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,7,False,8,Finished,4
+16,albon,Alexander Albon,ALB,Williams,14,False,7,Finished,6
+16,russell,George Russell,RUS,Mercedes,5,False,5,Finished,10
+16,leclerc,Charles Leclerc,LEC,Ferrari,4,False,4,Finished,12
+16,piastri,Oscar Piastri,PIA,McLaren,3,False,3,Finished,15
+16,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
+16,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
+16,hadjar,Isack Hadjar,HAD,Racing Bulls,,True,10,Finished,1
+17,alexander_albon,Alexander Albon,ALB,Williams,19,False,13,Finished,0
+17,ocon,Esteban Ocon,OCO,Haas F1 Team,20,False,14,Finished,0
+17,alonso,Fernando Alonso,ALO,Aston Martin,11,False,15,Finished,0
+17,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,False,16,Finished,0
+17,piastri,Oscar Piastri,PIA,McLaren,9,False,20,Retired,0
+17,gasly,Pierre Gasly,GAS,Alpine,18,False,18,Finished,0
+17,colapinto,Franco Colapinto,COL,Alpine,16,False,19,Finished,0
+17,bearman,Oliver Bearman,BEA,Haas F1 Team,15,False,12,Finished,0
+17,stroll,Lance Stroll,STR,Aston Martin,14,False,17,Finished,0
+17,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,13,False,11,Finished,0
+17,hadjar,Isack Hadjar,HAD,Racing Bulls,8,False,10,Finished,1
+17,leclerc,Charles Leclerc,LEC,Ferrari,10,False,9,Finished,2
+17,russell,George Russell,RUS,Mercedes,5,False,2,Finished,18
+17,sainz,Carlos Sainz,SAI,Williams,2,False,3,Finished,15
+17,antonelli,Kimi Antonelli,ANT,Mercedes,4,False,4,Finished,12
+17,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
+17,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,6,False,6,Finished,8
+17,norris,Lando Norris,NOR,McLaren,7,False,7,Finished,6
+17,hamilton,Lewis Hamilton,HAM,Ferrari,12,False,8,Finished,4
+17,lawson,Liam Lawson,LAW,Racing Bulls,3,False,5,Finished,10
+18,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,13,False,12,Finished,0
+18,gasly,Pierre Gasly,GAS,Alpine,20,False,19,Finished,0
+18,ocon,Esteban Ocon,OCO,Haas F1 Team,17,False,18,Finished,0
+18,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,14,False,17,Finished,0
+18,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,11,False,20,Finished,0
+18,lawson,Liam Lawson,LAW,Racing Bulls,12,False,15,Finished,0
+18,alexander_albon,Alexander Albon,ALB,Williams,19,False,14,Finished,0
+18,stroll,Lance Stroll,STR,Aston Martin,15,False,13,Finished,0
+18,hadjar,Isack Hadjar,HAD,Racing Bulls,8,False,11,Finished,0
+18,colapinto,Franco Colapinto,COL,Alpine,16,False,16,Finished,0
+18,bearman,Oliver Bearman,BEA,Haas F1 Team,9,False,9,Finished,2
+18,hamilton,Lewis Hamilton,HAM,Ferrari,6,False,8,Finished,4
+18,alonso,Fernando Alonso,ALO,Aston Martin,10,False,7,Finished,6
+18,leclerc,Charles Leclerc,LEC,Ferrari,7,False,6,Finished,8
+18,antonelli,Kimi Antonelli,ANT,Mercedes,4,False,5,Finished,10
+18,piastri,Oscar Piastri,PIA,McLaren,3,False,4,Finished,12
+18,norris,Lando Norris,NOR,McLaren,5,False,3,Finished,15
+18,max_verstappen,Max Verstappen,VER,Red Bull Racing,2,False,2,Finished,18
+18,russell,George Russell,RUS,Mercedes,1,False,1,Finished,25
+18,sainz,Carlos Sainz,SAI,Williams,18,False,10,Finished,1
+19,antonelli,Kimi Antonelli,ANT,Mercedes,7,False,13,Finished,0
+19,alexander_albon,Alexander Albon,ALB,Williams,18,False,14,Finished,0
+19,hadjar,Isack Hadjar,HAD,Racing Bulls,20,False,16,Finished,0
+19,sainz,Carlos Sainz,SAI,Williams,9,False,20,Retired,0
+19,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,False,18,Finished,0
+19,gasly,Pierre Gasly,GAS,Alpine,14,False,19,Finished,0
+19,stroll,Lance Stroll,STR,Aston Martin,19,False,12,Finished,0
+19,colapinto,Franco Colapinto,COL,Alpine,15,False,17,Finished,0
+19,lawson,Liam Lawson,LAW,Racing Bulls,12,False,11,Finished,0
+19,ocon,Esteban Ocon,OCO,Haas F1 Team,17,False,15,Finished,0
+19,bearman,Oliver Bearman,BEA,Haas F1 Team,8,False,9,Finished,2
+19,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,11,False,8,Finished,4
+19,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,13,False,7,Finished,6
+19,russell,George Russell,RUS,Mercedes,4,False,6,Finished,8
+19,piastri,Oscar Piastri,PIA,McLaren,6,False,5,Finished,10
+19,hamilton,Lewis Hamilton,HAM,Ferrari,5,False,4,Finished,12
+19,leclerc,Charles Leclerc,LEC,Ferrari,3,False,3,Finished,15
+19,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
+19,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
+19,alonso,Fernando Alonso,ALO,Aston Martin,10,False,10,Finished,1
+20,alexander_albon,Alexander Albon,ALB,Williams,17,False,12,Finished,0
+20,hadjar,Isack Hadjar,HAD,Racing Bulls,8,False,13,Finished,0
+20,stroll,Lance Stroll,STR,Aston Martin,19,False,14,Finished,0
+20,alonso,Fernando Alonso,ALO,Aston Martin,14,False,18,Retired,0
+20,colapinto,Franco Colapinto,COL,Alpine,20,False,16,Finished,0
+20,sainz,Carlos Sainz,SAI,Williams,12,False,17,Retired,0
+20,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,10,False,11,Finished,0
+20,gasly,Pierre Gasly,GAS,Alpine,18,False,15,Finished,0
+20,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,False,10,Finished,1
+20,piastri,Oscar Piastri,PIA,McLaren,7,False,5,Finished,10
+20,hamilton,Lewis Hamilton,HAM,Ferrari,3,False,8,Finished,4
+20,russell,George Russell,RUS,Mercedes,4,False,7,Finished,6
+20,antonelli,Kimi Antonelli,ANT,Mercedes,6,False,6,Finished,8
+20,bearman,Oliver Bearman,BEA,Haas F1 Team,9,False,4,Finished,12
+20,max_verstappen,Max Verstappen,VER,Red Bull Racing,5,False,3,Finished,15
+20,leclerc,Charles Leclerc,LEC,Ferrari,2,False,2,Finished,18
+20,norris,Lando Norris,NOR,McLaren,1,False,1,Finished,25
+20,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,13,False,19,Retired,0
+20,ocon,Esteban Ocon,OCO,Haas F1 Team,11,False,9,Finished,2
+20,lawson,Liam Lawson,LAW,Racing Bulls,15,False,20,Retired,0
+

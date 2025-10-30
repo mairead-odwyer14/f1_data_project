@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+10,russell,George Russell,RUS,Mercedes,1,1,Finished,25.0
+10,max_verstappen,Max Verstappen,VER,Red Bull Racing,2,2,Finished,18.0
+10,antonelli,Kimi Antonelli,ANT,Mercedes,4,3,Finished,15.0
+10,piastri,Oscar Piastri,PIA,McLaren,3,4,Finished,12.0
+10,leclerc,Charles Leclerc,LEC,Ferrari,8,5,Finished,10.0
+10,hamilton,Lewis Hamilton,HAM,Ferrari,5,6,Finished,8.0
+10,alonso,Fernando Alonso,ALO,Aston Martin,6,7,Finished,6.0
+10,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,11,8,Finished,4.0
+10,ocon,Esteban Ocon,OCO,Haas F1 Team,14,9,Lapped,2.0
+10,sainz,Carlos Sainz,SAI,Williams,16,10,Lapped,1.0
+10,bearman,Oliver Bearman,BEA,Haas F1 Team,13,11,Lapped,0.0
+10,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,18,12,Lapped,0.0
+10,colapinto,Franco Colapinto,COL,Alpine,10,13,Lapped,0.0
+10,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,15,14,Lapped,0.0
+10,gasly,Pierre Gasly,GAS,Alpine,20,15,Lapped,0.0
+10,hadjar,Isack Hadjar,HAD,Racing Bulls,12,16,Lapped,0.0
+10,stroll,Lance Stroll,STR,Aston Martin,17,17,Lapped,0.0
+10,norris,Lando Norris,NOR,McLaren,7,18,Retired,0.0
+10,lawson,Liam Lawson,LAW,Racing Bulls,19,19,Retired,0.0
+10,albon,Alexander Albon,ALB,Williams,9,20,Retired,0.0

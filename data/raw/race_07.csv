@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+7,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,1,Finished,25
+7,norris,Lando Norris,NOR,McLaren,2,2,Finished,18
+7,piastri,Oscar Piastri,PIA,McLaren,3,3,Finished,15
+7,leclerc,Charles Leclerc,LEC,Ferrari,4,4,Finished,12
+7,russell,George Russell,RUS,Mercedes,5,5,Finished,10
+7,hamilton,Lewis Hamilton,HAM,Ferrari,6,6,Finished,8
+7,antonelli,Kimi Antonelli,ANT,Mercedes,7,7,Finished,6
+7,albon,Alexander Albon,ALB,Williams,8,8,Finished,4
+7,sainz,Carlos Sainz,SAI,Williams,9,9,Finished,2
+7,gasly,Pierre Gasly,GAS,Alpine,10,10,Finished,1
+7,ocon,Esteban Ocon,OCO,Haas F1 Team,11,11,Finished,0
+7,hadjar,Isack Hadjar,HAD,Racing Bulls,12,12,Finished,0
+7,lawson,Liam Lawson,LAW,Racing Bulls,13,13,Finished,0
+7,alonso,Fernando Alonso,ALO,Aston Martin,14,14,Finished,0
+7,stroll,Lance Stroll,STR,Aston Martin,15,15,Finished,0
+7,bearman,Oliver Bearman,BEA,Haas F1 Team,16,16,Finished,0
+7,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,17,Finished,0
+7,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,18,18,Finished,0
+7,doohan,Jack Doohan,DOO,Alpine,19,19,Retired,0
+7,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,20,20,Retired,0

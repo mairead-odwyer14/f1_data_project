@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+8,norris,Lando Norris,NOR,McLaren,1,1,Finished,25.0
+8,leclerc,Charles Leclerc,LEC,Ferrari,2,2,Finished,18.0
+8,piastri,Oscar Piastri,PIA,McLaren,3,3,Finished,15.0
+8,max_verstappen,Max Verstappen,VER,Red Bull Racing,4,4,Finished,12.0
+8,hamilton,Lewis Hamilton,HAM,Ferrari,7,5,Finished,10.0
+8,hadjar,Isack Hadjar,HAD,Racing Bulls,5,6,Lapped,8.0
+8,ocon,Esteban Ocon,OCO,Haas F1 Team,8,7,Lapped,6.0
+8,lawson,Liam Lawson,LAW,Racing Bulls,9,8,Lapped,4.0
+8,albon,Alexander Albon,ALB,Williams,10,9,Lapped,2.0
+8,sainz,Carlos Sainz,SAI,Williams,11,10,Lapped,1.0
+8,russell,George Russell,RUS,Mercedes,14,11,Lapped,0.0
+8,bearman,Oliver Bearman,BEA,Haas F1 Team,20,12,Lapped,0.0
+8,colapinto,Franco Colapinto,COL,Alpine,18,13,Lapped,0.0
+8,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,14,Lapped,0.0
+8,stroll,Lance Stroll,STR,Aston Martin,19,15,Lapped,0.0
+8,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,13,16,Lapped,0.0
+8,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,12,17,Lapped,0.0
+8,antonelli,Kimi Antonelli,ANT,Mercedes,15,18,Lapped,0.0
+8,alonso,Fernando Alonso,ALO,Aston Martin,6,19,Retired,0.0
+8,gasly,Pierre Gasly,GAS,Alpine,17,20,Retired,0.0

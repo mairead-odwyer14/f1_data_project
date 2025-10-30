@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+20,lando_norris,Lando Norris,NOR,McLaren,1,1,Finished,25
+20,charles_leclerc,Charles Leclerc,LEC,Ferrari,2,2,Finished,18
+20,max_verstappen,Max Verstappen,VER,Red Bull Racing,5,3,Finished,15
+20,oliver_bearman,Oliver Bearman,BEA,Haas,9,4,Finished,12
+20,oscar_piastri,Oscar Piastri,PIA,McLaren,7,5,Finished,10
+20,kimi_antonelli,Kimi Antonelli,ANT,Mercedes,6,6,Finished,8
+20,george_russell,George Russell,RUS,Mercedes,4,7,Finished,6
+20,lewis_hamilton,Lewis Hamilton,HAM,Ferrari,3,8,Finished,4
+20,esteban_ocon,Esteban Ocon,OCO,Haas,11,9,Finished,2
+20,gabriel_bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,10,Finished,1
+20,yuki_tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,10,11,Finished,0
+20,alexander_albon,Alexander Albon,ALB,Williams,17,12,Finished,0
+20,isack_hadjar,Isack Hadjar,HAD,Racing Bulls,8,13,Finished,0
+20,lance_stroll,Lance Stroll,STR,Aston Martin,19,14,Finished,0
+20,pierre_gasly,Pierre Gasly,GAS,Alpine,18,15,Finished,0
+20,franco_colapinto,Franco Colapinto,COL,Alpine,20,16,Finished,0
+20,carlos_sainz,Carlos Sainz,SAI,Williams,12,17,Retired,0
+20,fernando_alonso,Fernando Alonso,ALO,Aston Martin,14,18,Retired,0
+20,nico_hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,13,19,Retired,0
+20,liam_lawson,Liam Lawson,LAW,Racing Bulls,15,20,Retired,0

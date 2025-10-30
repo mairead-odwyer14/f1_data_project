@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+17,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,1,Finished,25
+17,george_russell,George Russell,RUS,Mercedes,5,2,Finished,18
+17,carlos_sainz,Carlos Sainz,SAI,Williams,2,3,Finished,15
+17,kimi_antonelli,Kimi Antonelli,ANT,Mercedes,4,4,Finished,12
+17,liam_lawson,Liam Lawson,LAW,Racing Bulls,3,5,Finished,10
+17,yuki_tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,6,6,Finished,8
+17,lando_norris,Lando Norris,NOR,McLaren,7,7,Finished,6
+17,lewis_hamilton,Lewis Hamilton,HAM,Ferrari,12,8,Finished,4
+17,charles_leclerc,Charles Leclerc,LEC,Ferrari,10,9,Finished,2
+17,isack_hadjar,Isack Hadjar,HAD,Racing Bulls,8,10,Finished,1
+17,gabriel_bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,13,11,Finished,0
+17,oliver_bearman,Oliver Bearman,BEA,Haas,15,12,Finished,0
+17,alexander_albon,Alexander Albon,ALB,Williams,19,13,Finished,0
+17,esteban_ocon,Esteban Ocon,OCO,Haas,20,14,Finished,0
+17,fernando_alonso,Fernando Alonso,ALO,Aston Martin,11,15,Finished,0
+17,nico_hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,16,Finished,0
+17,lance_stroll,Lance Stroll,STR,Aston Martin,14,17,Finished,0
+17,pierre_gasly,Pierre Gasly,GAS,Alpine,18,18,Finished,0
+17,franco_colapinto,Franco Colapinto,COL,Alpine,16,19,Finished,0
+17,oscar_piastri,Oscar Piastri,PIA,McLaren,9,20,Retired,0

@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+1,norris,Lando Norris,NOR,McLaren,1,1,Finished,25.0
+1,max_verstappen,Max Verstappen,VER,Red Bull Racing,3,2,Finished,18.0
+1,russell,George Russell,RUS,Mercedes,4,3,Finished,15.0
+1,antonelli,Andrea Kimi Antonelli,ANT,Mercedes,16,4,Finished,12.0
+1,albon,Alexander Albon,ALB,Williams,6,5,Finished,10.0
+1,stroll,Lance Stroll,STR,Aston Martin,13,6,Finished,8.0
+1,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,7,Finished,6.0
+1,leclerc,Charles Leclerc,LEC,Ferrari,7,8,Finished,4.0
+1,piastri,Oscar Piastri,PIA,McLaren,2,9,Finished,2.0
+1,hamilton,Lewis Hamilton,HAM,Ferrari,8,10,Finished,1.0
+1,gasly,Pierre Gasly,GAS,Alpine,9,11,Finished,0.0
+1,tsunoda,Yuki Tsunoda,TSU,Racing Bulls,5,12,Finished,0.0
+1,ocon,Esteban Ocon,OCO,Haas F1 Team,19,13,Finished,0.0
+1,bearman,Oliver Bearman,BEA,Haas F1 Team,20,14,Finished,0.0
+1,lawson,Liam Lawson,LAW,Red Bull Racing,18,15,Retired,0.0
+1,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,15,16,Retired,0.0
+1,alonso,Fernando Alonso,ALO,Aston Martin,12,17,Retired,0.0
+1,sainz,Carlos Sainz,SAI,Williams,10,18,Retired,0.0
+1,doohan,Jack Doohan,DOO,Alpine,14,19,Retired,0.0
+1,hadjar,Isack Hadjar,HAD,Racing Bulls,11,20,Retired,0.0

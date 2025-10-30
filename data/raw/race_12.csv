@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+12,norris,Lando Norris,NOR,McLaren,3,1,Finished,25.0
+12,piastri,Oscar Piastri,PIA,McLaren,2,2,Finished,18.0
+12,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,19,3,Finished,15.0
+12,hamilton,Lewis Hamilton,HAM,Ferrari,5,4,Finished,12.0
+12,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,5,Finished,10.0
+12,gasly,Pierre Gasly,GAS,Alpine,8,6,Finished,8.0
+12,stroll,Lance Stroll,STR,Aston Martin,17,7,Finished,6.0
+12,albon,Alexander Albon,ALB,Williams,13,8,Finished,4.0
+12,alonso,Fernando Alonso,ALO,Aston Martin,7,9,Finished,2.0
+12,russell,George Russell,RUS,Mercedes,4,10,Finished,1.0
+12,bearman,Oliver Bearman,BEA,Haas F1 Team,18,11,Finished,0.0
+12,sainz,Carlos Sainz,SAI,Williams,9,12,Finished,0.0
+12,ocon,Esteban Ocon,OCO,Haas F1 Team,14,13,Finished,0.0
+12,leclerc,Charles Leclerc,LEC,Ferrari,6,14,Finished,0.0
+12,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,11,15,Lapped,0.0
+12,antonelli,Kimi Antonelli,ANT,Mercedes,10,16,Retired,0.0
+12,hadjar,Isack Hadjar,HAD,Racing Bulls,12,17,Retired,0.0
+12,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,18,Retired,0.0
+12,lawson,Liam Lawson,LAW,Racing Bulls,15,19,Retired,0.0
+12,colapinto,Franco Colapinto,COL,Alpine,20,20,Did not start,0.0

@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+14,norris,Lando Norris,NOR,McLaren,3,1,Finished,25.0
+14,piastri,Oscar Piastri,PIA,McLaren,2,2,Finished,18.0
+14,russell,George Russell,RUS,Mercedes,4,3,Finished,15.0
+14,leclerc,Charles Leclerc,LEC,Ferrari,1,4,Finished,12.0
+14,alonso,Fernando Alonso,ALO,Aston Martin,5,5,Finished,10.0
+14,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,7,6,Finished,8.0
+14,stroll,Lance Stroll,STR,Aston Martin,6,7,Finished,6.0
+14,lawson,Liam Lawson,LAW,Racing Bulls,9,8,Finished,4.0
+14,max_verstappen,Max Verstappen,VER,Red Bull Racing,8,9,Finished,2.0
+14,antonelli,Kimi Antonelli,ANT,Mercedes,15,10,Lapped,1.0
+14,hadjar,Isack Hadjar,HAD,Racing Bulls,10,11,Lapped,0.0
+14,hamilton,Lewis Hamilton,HAM,Ferrari,12,12,Lapped,0.0
+14,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,18,13,Lapped,0.0
+14,sainz,Carlos Sainz,SAI,Williams,13,14,Lapped,0.0
+14,albon,Alexander Albon,ALB,Williams,19,15,Lapped,0.0
+14,ocon,Esteban Ocon,OCO,Haas F1 Team,17,16,Lapped,0.0
+14,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,20,17,Lapped,0.0
+14,colapinto,Franco Colapinto,COL,Alpine,14,18,Lapped,0.0
+14,gasly,Pierre Gasly,GAS,Alpine,16,19,Lapped,0.0
+14,bearman,Oliver Bearman,BEA,Haas F1 Team,11,20,Retired,0.0

@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+2,piastri,Oscar Piastri,PIA,McLaren,1,1,Finished,25.0
+2,norris,Lando Norris,NOR,McLaren,3,2,Finished,18.0
+2,russell,George Russell,RUS,Mercedes,2,3,Finished,15.0
+2,max_verstappen,Max Verstappen,VER,Red Bull Racing,4,4,Finished,12.0
+2,ocon,Esteban Ocon,OCO,Haas F1 Team,11,5,Finished,10.0
+2,antonelli,Kimi Antonelli,ANT,Mercedes,8,6,Finished,8.0
+2,albon,Alexander Albon,ALB,Williams,10,7,Finished,6.0
+2,bearman,Oliver Bearman,BEA,Haas F1 Team,17,8,Finished,4.0
+2,stroll,Lance Stroll,STR,Aston Martin,14,9,Finished,2.0
+2,sainz,Carlos Sainz,SAI,Williams,15,10,Finished,1.0
+2,hadjar,Isack Hadjar,HAD,Racing Bulls,7,11,Finished,0.0
+2,lawson,Liam Lawson,LAW,Red Bull Racing,20,12,Finished,0.0
+2,doohan,Jack Doohan,DOO,Alpine,18,13,Finished,0.0
+2,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,19,14,Lapped,0.0
+2,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,12,15,Lapped,0.0
+2,tsunoda,Yuki Tsunoda,TSU,Racing Bulls,9,16,Lapped,0.0
+2,alonso,Fernando Alonso,ALO,Aston Martin,13,17,Retired,0.0
+2,leclerc,Charles Leclerc,LEC,Ferrari,6,18,Disqualified,0.0
+2,hamilton,Lewis Hamilton,HAM,Ferrari,5,19,Disqualified,0.0
+2,gasly,Pierre Gasly,GAS,Alpine,16,20,Disqualified,0.0

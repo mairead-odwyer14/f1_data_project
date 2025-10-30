@@ -1,0 +1,21 @@
+RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,Position,Status,Points
+4,piastri,Oscar Piastri,PIA,McLaren,1,1,Finished,25.0
+4,russell,George Russell,RUS,Mercedes,3,2,Finished,18.0
+4,norris,Lando Norris,NOR,McLaren,6,3,Finished,15.0
+4,leclerc,Charles Leclerc,LEC,Ferrari,2,4,Finished,12.0
+4,hamilton,Lewis Hamilton,HAM,Ferrari,9,5,Finished,10.0
+4,max_verstappen,Max Verstappen,VER,Red Bull Racing,7,6,Finished,8.0
+4,gasly,Pierre Gasly,GAS,Alpine,4,7,Finished,6.0
+4,ocon,Esteban Ocon,OCO,Haas F1 Team,14,8,Finished,4.0
+4,tsunoda,Yuki Tsunoda,TSU,Red Bull Racing,10,9,Finished,2.0
+4,bearman,Oliver Bearman,BEA,Haas F1 Team,20,10,Finished,1.0
+4,antonelli,Kimi Antonelli,ANT,Mercedes,5,11,Finished,0.0
+4,albon,Alexander Albon,ALB,Williams,15,12,Finished,0.0
+4,hadjar,Isack Hadjar,HAD,Racing Bulls,12,13,Finished,0.0
+4,doohan,Jack Doohan,DOO,Alpine,11,14,Finished,0.0
+4,alonso,Fernando Alonso,ALO,Aston Martin,13,15,Finished,0.0
+4,lawson,Liam Lawson,LAW,Racing Bulls,17,16,Finished,0.0
+4,stroll,Lance Stroll,STR,Aston Martin,19,17,Finished,0.0
+4,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,18,18,Finished,0.0
+4,sainz,Carlos Sainz,SAI,Williams,8,19,Retired,0.0
+4,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,16,20,Disqualified,0.0
