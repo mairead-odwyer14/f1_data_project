@@ -316,7 +316,7 @@ RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,PitLaneStart,Pos
 16,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
 16,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
 16,hadjar,Isack Hadjar,HAD,Racing Bulls,,True,10,Finished,1
-17,alexander_albon,Alexander Albon,ALB,Williams,19,False,13,Finished,0
+17,albon,Alexander Albon,ALB,Williams,19,False,13,Finished,0
 17,ocon,Esteban Ocon,OCO,Haas F1 Team,20,False,14,Finished,0
 17,alonso,Fernando Alonso,ALO,Aston Martin,11,False,15,Finished,0
 17,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,False,16,Finished,0
@@ -342,7 +342,7 @@ RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,PitLaneStart,Pos
 18,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,14,False,17,Finished,0
 18,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,11,False,20,Finished,0
 18,lawson,Liam Lawson,LAW,Racing Bulls,12,False,15,Finished,0
-18,alexander_albon,Alexander Albon,ALB,Williams,19,False,14,Finished,0
+18,albon,Alexander Albon,ALB,Williams,19,False,14,Finished,0
 18,stroll,Lance Stroll,STR,Aston Martin,15,False,13,Finished,0
 18,hadjar,Isack Hadjar,HAD,Racing Bulls,8,False,11,Finished,0
 18,colapinto,Franco Colapinto,COL,Alpine,16,False,16,Finished,0
@@ -357,7 +357,7 @@ RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,PitLaneStart,Pos
 18,russell,George Russell,RUS,Mercedes,1,False,1,Finished,25
 18,sainz,Carlos Sainz,SAI,Williams,18,False,10,Finished,1
 19,antonelli,Kimi Antonelli,ANT,Mercedes,7,False,13,Finished,0
-19,alexander_albon,Alexander Albon,ALB,Williams,18,False,14,Finished,0
+19,albon,Alexander Albon,ALB,Williams,18,False,14,Finished,0
 19,hadjar,Isack Hadjar,HAD,Racing Bulls,20,False,16,Finished,0
 19,sainz,Carlos Sainz,SAI,Williams,9,False,20,Retired,0
 19,bortoleto,Gabriel Bortoleto,BOR,Kick Sauber,16,False,18,Finished,0
@@ -376,7 +376,7 @@ RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,PitLaneStart,Pos
 19,norris,Lando Norris,NOR,McLaren,2,False,2,Finished,18
 19,max_verstappen,Max Verstappen,VER,Red Bull Racing,1,False,1,Finished,25
 19,alonso,Fernando Alonso,ALO,Aston Martin,10,False,10,Finished,1
-20,alexander_albon,Alexander Albon,ALB,Williams,17,False,12,Finished,0
+20,albon,Alexander Albon,ALB,Williams,17,False,12,Finished,0
 20,hadjar,Isack Hadjar,HAD,Racing Bulls,8,False,13,Finished,0
 20,stroll,Lance Stroll,STR,Aston Martin,19,False,14,Finished,0
 20,alonso,Fernando Alonso,ALO,Aston Martin,14,False,18,Retired,0
