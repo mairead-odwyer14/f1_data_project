@@ -8,15 +8,23 @@ df.sort_values(df.columns[2],
                axis = 0,
                inplace = True)
 
-total_points = df['Points'].groupby(df['DriverId'])
-
-points = total_points.sum()
-
 standings = (
-    total_points
+    df.groupby("FullName", as_index=False)["Points"]
     .sum()
-    .sort_values(ascending=False)
-    .reset_index(name="points")
+    .rename(columns={"Points": "points"})
+    .sort_values("points", ascending=False)
 )
+
+ax = standings.plot(kind = 'bar',
+                    x = 'FullName',
+                    y = 'points',
+                    color='blue',
+                    title='Current Standings',
+                    legend=False
+)
+
+ax.set_xlabel("Driver")
+ax.set_ylabel("Points")
+plt.show()
 
 print(standings.to_string(index=False))
