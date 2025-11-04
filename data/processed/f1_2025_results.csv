@@ -15,7 +15,7 @@ RaceNumber,DriverId,FullName,Abbreviation,TeamName,GridPosition,PitLaneStart,Pos
 1,hulkenberg,Nico Hulkenberg,HUL,Kick Sauber,17,False,7,Finished,6
 1,stroll,Lance Stroll,STR,Aston Martin,13,False,6,Finished,8
 1,albon,Alexander Albon,ALB,Williams,6,False,5,Finished,10
-1,antonelli,Andrea Kimi Antonelli,ANT,Mercedes,16,False,4,Finished,12
+1,antonelli,Kimi Antonelli,ANT,Mercedes,16,False,4,Finished,12
 1,russell,George Russell,RUS,Mercedes,4,False,3,Finished,15
 1,max_verstappen,Max Verstappen,VER,Red Bull Racing,3,False,2,Finished,18
 1,hamilton,Lewis Hamilton,HAM,Ferrari,8,False,10,Finished,1
