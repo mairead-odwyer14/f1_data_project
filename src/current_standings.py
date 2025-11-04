@@ -42,6 +42,3 @@ bx = team_standings.plot(kind = 'bar',
 bx.set_xlabel("Team")
 bx.set_ylabel("Points")
 plt.show()
-
-
-print(standings.to_string(index=False))
