@@ -30,3 +30,19 @@ plot.set_xlabel("Race Number")
 plot.set_ylabel("Points")
 plt.xticks(np.arange(0, 21, 1))
 plt.show()
+
+filtered_df['CumulativePoints'] = np.cumsum(filtered_df['Points'])
+
+plot2 = filtered_df.plot(
+    kind = 'line',
+    x = 'RaceNumber',
+    y = 'CumulativePoints',
+    color = 'green',
+    title = chosen,
+    legend = False,
+)
+
+plot2.set_xlabel("Race Number")
+plot2.set_ylabel("Cumulated Points")
+plt.xticks(np.arange(0, 21, 1))
+plt.show()
