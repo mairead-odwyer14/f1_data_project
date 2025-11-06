@@ -1,4 +1,4 @@
-# f1_winner_prediction
+# f1_data_project
 Python data science project using F1 datasets from Kaggle
 
 Kaggle dataset
